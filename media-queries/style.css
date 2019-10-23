@@ -1,0 +1,10 @@
+nav {
+    height: 60px;
+    background: #7effb6;
+}
+
+@media (max-width: 400px){
+    nav {
+        background: #89a9fb;
+    }
+}
